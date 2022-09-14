@@ -3,3 +3,17 @@ body {
   width: 50%;
   height: 75%;
 }
+
+form {
+  display: grid;
+
+}
+button {
+  border-radius: 5px;
+}
+
+#result {
+  border: 2px solid fuchsia;
+  border-radius: 10px;
+  width: fit-content;
+}
